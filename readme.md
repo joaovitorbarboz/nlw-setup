@@ -32,8 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a restreas os hábitos diários.
+O Habits é um app para ajudar a restrear os hábitos diários.
 
+- Visite o projeto online (https://joaovitorbarboz.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
